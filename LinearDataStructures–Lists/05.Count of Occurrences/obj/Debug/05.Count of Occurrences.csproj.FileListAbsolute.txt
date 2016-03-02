@@ -1,0 +1,5 @@
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\05.Count of Occurrences\bin\Debug\05.Count of Occurrences.exe.config
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\05.Count of Occurrences\bin\Debug\05.Count of Occurrences.exe
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\05.Count of Occurrences\bin\Debug\05.Count of Occurrences.pdb
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\05.Count of Occurrences\obj\Debug\05.Count of Occurrences.exe
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\05.Count of Occurrences\obj\Debug\05.Count of Occurrences.pdb

@@ -1,0 +1,1 @@
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe.config

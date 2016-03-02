@@ -1,0 +1,5 @@
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\03.LongestSubsequence\bin\Debug\03.LongestSubsequence.exe.config
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\03.LongestSubsequence\bin\Debug\03.LongestSubsequence.exe
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\03.LongestSubsequence\bin\Debug\03.LongestSubsequence.pdb
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\03.LongestSubsequence\obj\Debug\03.LongestSubsequence.exe
+D:\SoftUni\VisualStudio\DataStructures\LinearDataStructures–Lists\03.LongestSubsequence\obj\Debug\03.LongestSubsequence.pdb
